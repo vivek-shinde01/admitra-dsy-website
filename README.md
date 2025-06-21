@@ -1,70 +1,44 @@
-# Admitra – Direct Second Year Engineering Admission Consultancy
+# Admitra – DSY Engineering Admission Consultancy Website
 
-Welcome to **Admitra**, a responsive and modern website that helps diploma students seamlessly apply for **Direct Second Year (DSY) Engineering Admission**. The platform provides one-on-one counseling, personalized college lists, and complete admission guidance.
+Admitra is a responsive and modern website designed to assist **Diploma students** with **Direct Second Year (DSY) Engineering admissions**. The site provides expert guidance, one-on-one counseling, and a personalized college list service.
 
-## 🔗 Live Site
+## 🌐 Live Demo
 
-[🌐 Visit the Website](https://your-vercel-link.vercel.app)
+[Visit the Website](https://your-github-username.github.io/admitra/)  
+*(Update this URL after deployment)*
+
+---
 
 ## 📌 Features
 
-- Responsive design with clean UI
-- One-on-one counseling plans
-- Custom college list in PDF format
-- Combo service packages
-- Contact form powered by Web3Forms
-- Telegram group join CTA
-- Scroll animations and interactivity
+- 🎓 Clear explanation of DSY services
+- 💬 One-on-One Counseling
+- 📄 Personalized College List PDF
+- 📍 Region-focused guidance (Kolhapur & Sangli)
+- 📱 Fully responsive design
+- 🧠 Simple animations for enhanced UX
+- 📨 Web3Forms integration for contact form
+- 🔗 Telegram group link for updates
 
-## 📁 Folder Structure
-
-/
-├── assets/
-│ └── image/
-├── index.html
-├── st.css
-├── script.js
-└── README.md
-
+---
 
 ## 🛠️ Tech Stack
 
-- HTML5
-- CSS3 (Flexbox & Grid)
-- Vanilla JavaScript
-- Web3Forms API
-- Google Fonts - Poppins
-- Remix Icon Library
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (Vanilla)**  
+- **Web3Forms** – For backendless form submission
 
-## 📩 Contact Form Integration
+---
 
-Powered by [Web3Forms](https://web3forms.com):
+## 📁 Project Structure
 
-```html
-<form action="https://api.web3forms.com/submit" method="POST">
-  <input type="hidden" name="access_key" value="YOUR_ACCESS_KEY">
-  ...
-</form>
-
-🚀 Deployment
-Deployed on:
-
-Vercel
-
-GitHub Pages
-
-📜 License
-MIT License
-
-
-🙋 Author
-Developed by Vivek Shinde
-
-For guidance or queries, feel free to connect on LinkedIn or join the Telegram Group.
-
-vbnet
-Copy
-Edit
-
-> Let me know your actual deployment link or GitHub repo URL, and I’ll plug that into the file for you.
-
+```bash
+.
+├── index.html
+├── st.css
+├── script.js
+├── assets/
+│   └── image/
+│       └── (backgrounds, icons, favicons)
+└── README.md
